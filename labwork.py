@@ -7,7 +7,7 @@ print("_______________________________________________")
 celsius = input("Please enter a temperature in celsius: ")
 print("Converting celsius to fahrenheit...")
 fahrenheit = (float(celsius)*9/5 + 32)
-print (fahrenheit)
+print (celsius,"Celsius is",fahrenheit ,"Fahrenheitah.")
 print("_______________________________________________")
 
 # Task 3
